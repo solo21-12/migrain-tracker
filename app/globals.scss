@@ -2,3 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,600;1,400;1,500;1,600&family=Caprasimo&display=swap');
+
+.barlow{
+    font-family: 'Barlow', sans-serif !important;
+}
